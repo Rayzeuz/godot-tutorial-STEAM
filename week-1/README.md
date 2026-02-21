@@ -138,4 +138,4 @@ Reference:
 - [Introduction to Godot's Editor](https://docs.godotengine.org/en/4.6/getting_started/introduction/first_look_at_the_editor.html)
 - [Scenes and Nodes](https://docs.godotengine.org/en/4.6/getting_started/introduction/key_concepts_overview.html#scenes)
 - [Materi tutorial pengenalan Godot Engine, kuliah Game Development semester
-  gasal 2021/2022 Fakultas Ilmu Komputer Universitas Indonesia.](https://gitlab.com/csui-gamedev/tutorials/tutorial-2)
+  gasal 2021/2022 Fakultas Ilmu Komputer Universitas Indonesia.](https://gitlab.com/csui-gamedev/tutorials/-/tree/master/tutorial-2?ref_type=heads)
