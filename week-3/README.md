@@ -114,7 +114,7 @@ Lalu pada tab tileset di bagian bawah pilih tab select. Kemudian pilih salah sat
 pada scene kalian. Klik bagian physics dari tile tersebut. Kemudian pada ikon titik tiga pilih reset to default tile shape.
 Lakukan hal tersebut ke semua tile yang akan digunakan.
 
-![](https://i.imgur.com/wLcLSvP.gif)
+![](images/tileset_add_physics.mp4)
 
 ## Making the Camera Follows The Player
 
